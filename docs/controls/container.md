@@ -387,6 +387,8 @@ ft.app(main)
 ```
 ![ContainerHover GIF]("/img/docs/controls/container/hover-container.gif")
 
+<img src="/img/docs/controls/container/hover-container.gif" className="screenshot-20" />
+
 ### `on_long_press`
 
 Fires when the container is long-pressed.
