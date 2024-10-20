@@ -385,7 +385,6 @@ def main(page: ft.Page):
 
 ft.app(main)
 ```
-![ContainerHover GIF]("/img/docs/controls/container/hover-container.gif")
 
 <img src="/img/docs/controls/container/hover-container.gif" className="screenshot-20" />
 
